@@ -18,6 +18,7 @@ We’re committed to keeping our work open, inclusive, and impactful. We believe
 
 - **Nik-Lang** – A modern programming language for learning and building
 - **N-Ops** – Open-source developer tools and automation
+- **N-Sync** – A simple, secure solution for syncing files across devices with watch mode
 - **Operating System (WIP)** – Lightweight OS experiments (based on Debian)
 - **Short-N (WIP)** – A URL shortener with a focus on privacy and simplicity (Self-hosted)
 - And more in progress... (open for all project ideas!)
