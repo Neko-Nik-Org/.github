@@ -21,7 +21,7 @@ We’re committed to keeping our work open, inclusive, and impactful. We believe
 - **N-Sync** – A simple, secure solution for syncing files across devices with watch mode
 - **Operating System (WIP)** – Lightweight OS experiments (based on Debian)
 - **Short-N (WIP)** – A URL shortener with a focus on privacy and simplicity (Self-hosted)
-- **Invoice-N** – A simple, self-hosted invoicing system for freelancers and small businesses
+- **Invoice-N (WIP)** – A simple, self-hosted invoicing system for freelancers and small businesses (self-hosted)
 - And more in progress... (open for all project ideas!)
 
 All our projects are under open licenses and welcome contributions from anyone.
