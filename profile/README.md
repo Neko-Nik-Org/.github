@@ -14,17 +14,13 @@ We’re committed to keeping our work open, inclusive, and impactful. We believe
 
 ---
 
-## 🛠️ Projects We're Working On
+## 🛠️ Projects We’re Working On
 
-- **Nik-Lang** – A modern programming language for learning and building
-- **N-Ops** – Open-source developer tools and automation
-- **N-Sync** – A simple, secure solution for syncing files across devices with watch mode
-- **Operating System (WIP)** – Lightweight OS experiments (based on Debian)
-- **Short-N (WIP)** – A URL shortener with a focus on privacy and simplicity (Self-hosted)
-- **Invoice-N (WIP)** – A simple, self-hosted invoicing system for freelancers and small businesses (self-hosted)
-- And more in progress... (open for all project ideas!)
+We’re always building — from tools and libraries to full systems, including embedded systems.</br>
+Explore all our current and upcoming projects here: [nekonik.org/projects](https://nekonik.org/projects)
 
-All our projects are under open licenses and welcome contributions from anyone.
+✨ **Got an idea?** We’re always open to new project proposals!</br>
+Every project is 100% open source and welcomes contributions from everyone — no matter your experience level.
 
 ---
 
