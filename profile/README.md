@@ -53,14 +53,7 @@ Whether you're a student, contributor, writer, or designer — we welcome all sk
 
 - 🌐 Website: [nekonik.org](https://nekonik.org)
 - 💌 Email: nikhil@nekonik.org
-- 📦 PO Box:
-    ```
-    ePostbook Postbox - 86007
-
-    4/45 B, Grand Trunk Rd,
-    Shri Ram Nagar, Main Shahdara,
-    New Delhi, India - 110032
-    ```
+- 📦 PO Box: [Contact Me](https://www.nekonik.com/contact)
 
 ---
 
